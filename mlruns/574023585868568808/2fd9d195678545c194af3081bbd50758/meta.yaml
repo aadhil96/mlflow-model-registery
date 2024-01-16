@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/MLflow/mlruns/574023585868568808/2fd9d195678545c194af3081bbd50758/artifacts
+end_time: 1705409896330
+entry_point_name: ''
+experiment_id: '574023585868568808'
+lifecycle_stage: active
+run_id: 2fd9d195678545c194af3081bbd50758
+run_name: hilarious-turtle-783
+run_uuid: 2fd9d195678545c194af3081bbd50758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409885130
+status: 3
+tags: []
+user_id: Aadhil_105729

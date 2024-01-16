@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/MLflow/mlruns/224914829490676344/d25914d6a4744df194f4f8a75906690a/artifacts
+end_time: 1705407221387
+entry_point_name: ''
+experiment_id: '224914829490676344'
+lifecycle_stage: active
+run_id: d25914d6a4744df194f4f8a75906690a
+run_name: traveling-conch-639
+run_uuid: d25914d6a4744df194f4f8a75906690a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407201840
+status: 3
+tags: []
+user_id: Aadhil_105729

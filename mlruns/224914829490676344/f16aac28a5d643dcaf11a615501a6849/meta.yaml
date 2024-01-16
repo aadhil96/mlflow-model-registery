@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/MLflow/mlruns/224914829490676344/f16aac28a5d643dcaf11a615501a6849/artifacts
+end_time: 1705407741546
+entry_point_name: ''
+experiment_id: '224914829490676344'
+lifecycle_stage: active
+run_id: f16aac28a5d643dcaf11a615501a6849
+run_name: popular-moth-371
+run_uuid: f16aac28a5d643dcaf11a615501a6849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407734759
+status: 3
+tags: []
+user_id: Aadhil_105729

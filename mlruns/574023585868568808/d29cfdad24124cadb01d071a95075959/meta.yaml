@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/MLflow/mlruns/574023585868568808/d29cfdad24124cadb01d071a95075959/artifacts
+end_time: 1705408876584
+entry_point_name: ''
+experiment_id: '574023585868568808'
+lifecycle_stage: active
+run_id: d29cfdad24124cadb01d071a95075959
+run_name: silent-conch-642
+run_uuid: d29cfdad24124cadb01d071a95075959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408866925
+status: 3
+tags: []
+user_id: Aadhil_105729

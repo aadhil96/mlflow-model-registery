@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/MLflow/mlruns/224914829490676344/a9a7ba6749414298be63ee3dc1aff9d4/artifacts
+end_time: 1705407631338
+entry_point_name: ''
+experiment_id: '224914829490676344'
+lifecycle_stage: active
+run_id: a9a7ba6749414298be63ee3dc1aff9d4
+run_name: bouncy-newt-551
+run_uuid: a9a7ba6749414298be63ee3dc1aff9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407620048
+status: 3
+tags: []
+user_id: Aadhil_105729
